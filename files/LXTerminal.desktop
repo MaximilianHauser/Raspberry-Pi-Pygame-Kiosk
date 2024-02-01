@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=LXTerminal
+Comment=Shortcut for opening the LXTerminal
+Icon=/usr/share/pixmaps/openbox.png
+Exec=/usr/bin/lxterminal
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
