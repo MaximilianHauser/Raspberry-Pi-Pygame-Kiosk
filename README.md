@@ -88,7 +88,7 @@ pygame.mouse.set_visible(False)
 ```
 
 ## References
-[Reddit: Jimg911:"Question about running python and pygame from boot"](https://www.reddit.com/r/raspberry_pi/comments/7wj6vp/question_about_running_python_and_pygame_from_boot/)
-[RaspberryPiStackexchange: Dcdanny:"start a lxterminal on startup"](https://raspberrypi.stackexchange.com/questions/12730/start-a-lxterminal-on-startup)
-[RaspberryProjects.com: "Desktop Shortcuts"](https://raspberry-projects.com/pi/pi-operating-systems/raspbian/gui/desktop-shortcuts)
+[Reddit: Jimg911:"Question about running python and pygame from boot"](https://www.reddit.com/r/raspberry_pi/comments/7wj6vp/question_about_running_python_and_pygame_from_boot/)  
+[RaspberryPiStackexchange: Dcdanny:"start a lxterminal on startup"](https://raspberrypi.stackexchange.com/questions/12730/start-a-lxterminal-on-startup)  
+[RaspberryProjects.com: "Desktop Shortcuts"](https://raspberry-projects.com/pi/pi-operating-systems/raspbian/gui/desktop-shortcuts)  
 
